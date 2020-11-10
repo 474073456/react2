@@ -1,0 +1,37 @@
+{
+  "id": "2192277",
+  "name": "淘宝图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1432",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10044253",
+      "name": "客服",
+      "font_class": "xinbaniconshangchuan-",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "17945752",
+      "name": "基本icon_收藏-面",
+      "font_class": "jibenicon_shoucang-mian",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "17945753",
+      "name": "基本icon_收藏",
+      "font_class": "jibenicon_shoucang",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
